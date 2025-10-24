@@ -1,5 +1,7 @@
 # TP3 : Créer sa propre image Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectifs du TP
 
 Ce TP a pour but de vous apprendre à **créer vos propres images Docker** à partir de zéro. Vous allez comprendre le rôle du `Dockerfile`, la logique des couches (layers), la gestion des dépendances, et la personnalisation d’images pour vos besoins. À la fin, vous publierez votre image sur Docker Hub.

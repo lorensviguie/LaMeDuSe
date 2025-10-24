@@ -1,5 +1,7 @@
 # 🚀 Cours Docker — Introduction Synthétique
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 1. Installation de Docker
 
 ### 1.1 Sur Windows (pour les débutants)

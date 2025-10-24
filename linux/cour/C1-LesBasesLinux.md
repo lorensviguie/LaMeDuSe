@@ -1,5 +1,7 @@
 # Les Bases de Linux
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 Vous trouverez ici un large éventail de commandes à utiliser sur un terminal **bash Linux**.
 
 > **Note :** pour plus d'informations, consultez le *man* de la commande correspondante (`man <commande>`).

@@ -1,5 +1,7 @@
 # TP2 : Mise en place de son premier container et pull de ses premières images
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## Objectifs du TP
 Ce TP a pour but de vous familiariser avec la manipulation des **images Docker**, la **création de containers**, et la **persistance des données**. Vous découvrirez également comment déployer un service plus avancé (HashiCorp Vault) en utilisant des volumes, des variables d'environnement et un port personnalisé.
 

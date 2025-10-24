@@ -1,5 +1,7 @@
 # 🐳 TP – Mise en place de son premier conteneur Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectif
 
 Découvrir et manipuler vos premières images Docker, créer et exécuter vos premiers conteneurs, et comprendre le rôle des volumes et des variables d'environnement.

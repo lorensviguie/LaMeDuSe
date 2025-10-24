@@ -1,5 +1,7 @@
 # 🌐 Introduction à Kubernetes
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 1. Qu’est-ce que Kubernetes ?
 
 **Kubernetes** (ou **K8s**) est un **orchestrateur de conteneurs**.  

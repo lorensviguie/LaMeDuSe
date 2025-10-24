@@ -1,5 +1,7 @@
 # TP6 : Docker Swarm - Gestion de Cluster et Haute Disponibilité
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## Objectifs pédagogiques
 
 À la fin de ce TP, vous serez capable de :

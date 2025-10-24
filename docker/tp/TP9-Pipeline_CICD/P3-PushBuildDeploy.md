@@ -1,5 +1,7 @@
 # TP CI/CD - Part 3 : Push, Build & Deploy
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## Sommaire
 
 1. **Linting**

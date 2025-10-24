@@ -1,5 +1,7 @@
 # SSH — Guide pratique pour débutants → intermédiaires
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 Vous trouverez ici un guide clair et corrigé sur **SSH (Secure Shell)** : usage de base, transfert de fichiers, sécurisation et configuration client. Le document contient des exemples concrets prêts à être copiés/collés.
 
 > **Important :** SSH est l’outil principal d’administration à distance sous Linux. Il doit être utilisé correctement et sécurisé (notamment en production).

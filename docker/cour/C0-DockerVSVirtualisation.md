@@ -1,5 +1,7 @@
 # 🖥️ Introduction à la Virtualisation et à la Conteneurisation
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 1. Qu’est-ce que la Virtualisation ?
 
 La **virtualisation** est une technologie qui permet de **faire fonctionner plusieurs systèmes ou environnements isolés sur une même machine physique**.  

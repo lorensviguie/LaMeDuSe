@@ -2,6 +2,8 @@
 
 Dans ce TP, vous allez améliorer et enrichir votre pipeline CI/CD en travaillant **sur un GitLab self-hosted** sur votre machine locale. Tout se fera en SSH et sur cette machine, sans dépendre de services cloud.
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ---
 
 ## Index

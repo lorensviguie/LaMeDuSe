@@ -1,5 +1,7 @@
 # Git — Guide pratique pour débutants → intermédiaires
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 Vous trouverez ici un guide clair et structuré sur **Git** : installation, création de dépôt, workflow, branches, résolution de conflits et bonnes pratiques. Le document contient des exemples concrets prêts à copier-coller.
 
 ---

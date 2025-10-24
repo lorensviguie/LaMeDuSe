@@ -1,5 +1,7 @@
 # 🐳 TP – Mise en place de son premier conteneur Docker et pull des premières images
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectif
 
 Se familiariser avec les images Docker, créer et gérer des conteneurs, comprendre la persistance des données et explorer le déploiement d’un service plus complexe comme HashiCorp Vault avec Docker.

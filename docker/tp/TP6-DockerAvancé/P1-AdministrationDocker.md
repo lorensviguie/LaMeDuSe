@@ -1,5 +1,7 @@
 # 🐳 TP – Administrer ses conteneurs Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectifs du TP
 
 Ce TP a pour objectif de vous apprendre à **administrer, superviser et automatiser la gestion de vos conteneurs Docker**. Vous apprendrez à :

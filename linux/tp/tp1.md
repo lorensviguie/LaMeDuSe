@@ -1,5 +1,8 @@
 # TP1 — Linux Basics (Rocky 9.6 recommandé)
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
+
 **Objectif :** apprendre et pratiquer les commandes de base sur un système Linux via un terminal Bash. Ce TP est conçu pour des débutants → intermédiaires. Faites-le sur une VM (Rocky Linux 9.6 recommandé) ou sur tout autre Linux disposant d'un shell Bash.
 
 ---

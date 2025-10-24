@@ -1,5 +1,7 @@
 # 🐳 TP – Docker Compose : Automatiser et sécuriser ses déploiements multi-conteneurs
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectif
 
 Découvrir comment orchestrer plusieurs containers avec Docker Compose dans un environnement Linux local. Vous apprendrez à définir des services, volumes et réseaux, gérer les dépendances entre containers et appliquer les bonnes pratiques de sécurité.

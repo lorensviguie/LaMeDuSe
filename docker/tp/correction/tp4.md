@@ -1,5 +1,7 @@
 # TP4 : Docker Compose — Automatiser et sécuriser ses déploiements multi-conteneurs
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectifs du TP
 
 Dans ce TP, vous apprendrez à orchestrer plusieurs containers avec **Docker Compose**. Vous verrez comment définir des services, réseaux et volumes, gérer les dépendances entre containers, et appliquer des **bonnes pratiques de sécurité**.

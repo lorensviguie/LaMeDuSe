@@ -1,5 +1,7 @@
 # 🐳 TP – Créer son propre registre Docker privé
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectif
 
 Mettre en place un **Docker Registry privé** sur votre machine locale, apprendre à y stocker et récupérer vos propres images, sans dépendre de Docker Hub.

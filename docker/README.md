@@ -1,13 +1,12 @@
 # Cours et TP Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 Ce dossier contient tous les cours et travaux pratiques liés à Docker, organisés par thématiques et niveaux.
 
 ## Structure
 - `cour/` : Cours théoriques sur Docker et technologies associées.
 - `tp/` : Travaux pratiques, chacun avec son README détaillant les objectifs et étapes.
-- `img/` : Images et logos utilisés dans les TP ou cours.
-- `kubernetes/` : TP ou cours sur Kubernetes.
-- `linux/` : TP ou cours sur Linux, utile pour préparer les environnements Docker.
 
 Chaque TP possède son propre README qui explique les objectifs et les exercices à réaliser.
 

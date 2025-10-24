@@ -1,5 +1,7 @@
 # 🐳 TP – Création et gestion de vos propres images Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectif
 
 Découvrir comment créer vos propres images Docker, comprendre la structure d’un Dockerfile, gérer les couches et optimiser vos images pour un usage local.

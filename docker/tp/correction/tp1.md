@@ -1,5 +1,7 @@
 # 🐳 TP – Préparation et Configuration de son Environnement Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🎯 Objectif
 
 Mettre en place un environnement de travail Docker propre et sécurisé, prêt à accueillir vos futurs conteneurs et projets.  

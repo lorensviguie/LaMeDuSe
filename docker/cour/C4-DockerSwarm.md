@@ -1,5 +1,7 @@
 # Cours : Introduction à Docker Swarm
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 🐳 Qu’est-ce que Docker Swarm ?
 
 Docker Swarm est une solution d’orchestration native de Docker.  

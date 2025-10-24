@@ -1,5 +1,7 @@
 # TP2 : How to Manage My Services 🧠
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 📋 Objectifs
 Dans ce TP, vous allez apprendre à :
 - Installer, démarrer et configurer un service sous Linux

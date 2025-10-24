@@ -1,5 +1,7 @@
 # 🧩 Cours Docker Compose — Réseaux, Volumes et Communication entre Conteneurs
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 1. Introduction
 
 **Docker Compose** est un outil qui permet de **décrire, configurer et exécuter plusieurs conteneurs** avec un seul fichier YAML : `docker-compose.yml`.

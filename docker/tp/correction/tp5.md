@@ -1,5 +1,7 @@
 # TP Docker : Créer son propre registre Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## Objectif
 Mettre en place un **Docker Registry privé** sur une machine locale et y stocker vos propres images Docker.
 

@@ -1,5 +1,7 @@
 # 🧱 Créer sa propre image Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## 1. Introduction
 
 Une **image Docker** est un modèle immuable qui contient tout le nécessaire pour exécuter une application :  

@@ -1,5 +1,7 @@
 # TP7 : Développer proprement dans un environnement Docker
 
+![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+
 ## Objectifs pédagogiques
 
 À la fin de ce TP, vous serez capable de :
