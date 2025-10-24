@@ -1,6 +1,6 @@
 # Cours et TP Docker
 
-![LaMeDuSe_LOGO](./img/LaMeDuSe_logo.webp)
+![LaMeDuSe_LOGO](/img/LaMeDuSe_logo.webp)
 
 Ce dossier contient tous les cours et travaux pratiques liés à Docker, organisés par thématiques et niveaux.
 
