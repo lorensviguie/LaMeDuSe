@@ -98,7 +98,7 @@ commandes de base, services, permissions, réseau et automatisation.
 
 ## 📦 Auteur & Licence
 
-Projet pédagogique créé pour accompagner les étudiants/proffesionelle dans leur **montée en compétence DevOps**.  
+Projet pédagogique créé pour accompagner les étudiants/proffesionels dans leur **montée en compétence DevOps**.  
 Sous Licence MIT.
 
 > © 2025 - LaMeDuSe Project 🧠  
