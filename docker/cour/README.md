@@ -9,9 +9,9 @@ Ce dossier fait partie du projet **LaMeDuSe** et contient les supports de **cour
 ## 📚 Structure du répertoire
 
 docker/
-├── cour/ → Cours théoriques (notions, concepts, exemples)
-├── tp/ → Travaux pratiques (TP1 → TP8)
-└── README.md → Ce fichier
+├── cour/ → Cours théoriques (notions, concepts, exemples)  
+├── tp/ → Travaux pratiques (TP1 → TP8)  
+└── README.md → Ce fichier  
 
 
 ---
