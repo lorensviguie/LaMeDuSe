@@ -1,6 +1,6 @@
 # 📦 Cours Docker
 
-![LaMeDuSe_LOGO](/LaMeDuSe_logo.webp)
+![LaMeDuSe_LOGO](/img/LaMeDuSe_logo.webp)
 
 Ce dossier fait partie du projet **LaMeDuSe** et contient les supports de **cours** et de **TP** sur Docker et ses outils associés.
 
