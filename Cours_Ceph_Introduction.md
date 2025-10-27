@@ -78,7 +78,7 @@ Un cluster Ceph est constitué de plusieurs **daemons** et **rôles** :
 ### 🔧 5.1. Pré-requis
 - Au moins **3 serveurs** pour un vrai cluster.
 - OS : **Rocky Linux 9 / Ubuntu 22.04**.
-- SSH root sans mot de passe entre les nœuds.
+- SSH root sans mot de passe (par clé ssh) entre les nœuds.
 - Chaque disque dédié au Ceph doit être **vide** (pas de partition).
 
 ### 🔩 5.2. Installation via Cephadm
