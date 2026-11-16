@@ -9,6 +9,7 @@ Bienvenue dans le dépôt **LaMeDuSe**, un ensemble complet de **cours et TP** p
 
 À travers ce dépôt, vous apprendrez à :
 
+- Créer et préparer des **machines virtuelles** propres et réutilisables.  
 - Maîtriser les **bases de Linux** et de l’administration système.  
 - Comprendre et manipuler **Docker** pour la conteneurisation.  
 - Construire et déployer vos propres **images Docker**.  
@@ -34,6 +35,9 @@ LAMEDUSE/
 │   ├── cour/             # Cours Linux
 │   ├── memos/            # Fiches mémo et raccourcis utiles
 │   └── tp/               # Travaux pratiques Linux
+│
+├── virtualisation/       # Création de VM et clones source
+│   └── tp/               # Travaux pratiques Virtualisation
 │
 └── README.md             # Ce fichier d’accueil
 ```
@@ -63,6 +67,16 @@ Les cours présentent la logique de déploiement, les objets clés et la philoso
 
 ---
 
+## 🖥️ Section Virtualisation
+
+### Description
+Avant de travailler sur un serveur, il faut savoir le **construire proprement** : création de la VM, installation from scratch, partitionnement LVM, sécurisation de l’accès et préparation d’un **clone source** réutilisable pour tous les autres TP.
+
+📘 **Sous-dossiers :**
+- [`tp/`](virtualisation/tp) – Travaux pratiques ([TP1 – Clone source propre](virtualisation/tp/TP1-CloneSourcePropre/README.md)).
+
+---
+
 ## 🐧 Section Linux
 
 ### Description
@@ -72,7 +86,7 @@ commandes de base, services, permissions, réseau et automatisation.
 📘 **Sous-dossiers :**
 - [`cour/`](linux/cour) – Cours théoriques.  
 - [`memos/`](linux/memos) – Raccourcis, astuces et résumés pratiques.  
-- [`tp/`](linux/tp) – Exercices pour renforcer vos compétences.
+- [`tp/`](linux/tp) – Exercices pour renforcer vos compétences (dont le [TP3 – Service web sécurisé & conteneurs](linux/tp/TP3-ServiceWebEtConteneurs/README.md)).
 
 ---
 
@@ -92,6 +106,7 @@ commandes de base, services, permissions, réseau et automatisation.
 | 🐋 Docker | [docs.docker.com](https://docs.docker.com) |
 | ☸️ Kubernetes | [kubernetes.io/docs](https://kubernetes.io/docs/home/) |
 | 🐧 Linux | [linuxjourney.com](https://linuxjourney.com) |
+| 🖥️ Virtualisation | [docs.rockylinux.org](https://docs.rockylinux.org) · [virtualbox.org/manual](https://www.virtualbox.org/manual/) |
 | ⚙️ DevOps | [roadmap.sh/devops](https://roadmap.sh/devops) |
 
 ---
